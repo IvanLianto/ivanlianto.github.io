@@ -56,7 +56,7 @@ I made a lot of game, this is my game projects from game jam, competition, cours
 
 #### WORDPOCALYPSE
 
-![Image](/images/game/word-pocalypse.png)
+![Image](/images/game/word-pocalypse.jpg)
 
 WORDPOCALYPSE is my first 2D game, developed at intership Raion Community. With the theme "Freedom" and inspired from zombie apocalypse, 
 my team has an idea to develops this game. The player must exit the room and avoid zombie attack. 
