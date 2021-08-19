@@ -48,3 +48,32 @@ Player must go to finish block and rewind so after the player in finish block, p
 Link : [One Two Three Dango!](https://bintangfr.itch.io/one-two-three-dang)
 
 ***
+
+# Fowl Seeker
+
+![Image](/images/game/fowl-seeker.png)
+
+Fowl Seeker is a 2D game that has a theme Lost n Found. player as a chicken to get to his lost cub and must avoid obstacles.
+Player can only jump with space key to get his lost cub.
+
+Link : [Fowl Seeker](https://globalgamejam.org/2021/games/fowl-seeker-3)
+
+***
+
+# Arthiefactor
+
+![Image](/images/game/arthiefactor.png)
+
+Arthiefactor is a 2D game that has a theme open data from museum in Indonesia. It must use some data from museum like artefact or something like that.
+This game is boss rush and top down. Player battle with boss which has a power from artefact. Player can use item from the artefact he got from the boss.
+
+Link : [Arthiefactor](https://bintangfr.itch.io/arthiefactor)
+
+***
+
+# Dungeon and Merchant
+
+Dungeon and Merchant is a 2D game. The concept of this game is a combination of Moonlighter, Shop Titans and Disc Room.
+The game has been postponed due to a slight problem with the artist.
+
+Project : Posponed
